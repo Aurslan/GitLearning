@@ -1,1 +1,2 @@
 Sample File 2 is adding in master branch.
+Adding second line comments in Sample File 2.
